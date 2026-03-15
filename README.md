@@ -54,3 +54,6 @@ Geographical factors influence customer churn patterns.
 Customer distribution based on Geography
 
 These insights help understand which customer segments are more likely to leave the bank.
+
+
+Project link : https://github.com/arkadhol13-droid/Banking-Customer-Churn-Analysis-Dashboard/blob/main/Banking%20Churn%20Dashboards/Visualization/Customer_churn_Dashboard.png
